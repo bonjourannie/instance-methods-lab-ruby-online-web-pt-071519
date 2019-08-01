@@ -1,3 +1,3 @@
-dlass Dog 
+class Dog 
 
 end 
